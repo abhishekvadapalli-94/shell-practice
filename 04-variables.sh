@@ -11,5 +11,6 @@ echo "Total number of arguments: $#"
 echo "All arguments as a single string: $*"
 echo "All arguments as separate strings: $@"
 echo "Process ID of the script: $$"
-echo "Exit status of the last command: $?" 
+echo "Exit status of the last command: $?"
+sleep 100 & 
 echo "Last background process ID: $!"
