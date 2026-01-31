@@ -6,3 +6,6 @@ echo "Current user: $(whoami)"
 echo "Current working directory: $(pwd)"
 echo "List of files in the current directory:"
 ls -l  
+echo "Disk usage of the current directory:"
+du -sh .
+echo "Script execution completed."
