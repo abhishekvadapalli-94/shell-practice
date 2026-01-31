@@ -9,3 +9,4 @@ ls -l
 echo "Disk usage of the current directory:"
 du -sh .
 echo "Script execution completed."
+# End of script
