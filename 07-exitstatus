@@ -10,3 +10,10 @@ fi
 
 echo "Updating package lists..."
 dnf install nginx -y
+
+if [ $? -ne 0 ]; then
+    echo "Failed to install nginx. Please check your network connection and package manager settings."
+    exit 1
+else
+    echo "nginx installed successfully."
+fi
