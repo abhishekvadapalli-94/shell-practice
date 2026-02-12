@@ -10,4 +10,5 @@ echo "$Person2: I'm doing well, thank you! How about you?"
 echo "$Person1: I'm great, thanks for asking. What do you like to do?"
 echo "$Person2: I enjoy coding and learning new technologies. How about you?"
 echo "$Person1: I also love coding! It's great to connect with someone who shares the same passion. Do you have any favorite programming languages?"
-echo "$Person2: I really like Python
+echo "$Person2: I really like Python and JavaScript. They are versatile and have a lot of libraries. What about you?"
+echo "$Person1: I enjoy working with Python as well. It's great for data analysis and machine learning. Do you have any projects you're currently working on?"
