@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#set -e # Exit immediately if a command exits with a non-zero status
+set -e # Exit immediately if a command exits with a non-zero status
 
 echo "This script will demonstrate the use of the 'set' command in bash."
 echo "The 'set' command is used to change the behavior of the shell. It can be used to enable or disable certain features, and to control how the shell handles errors and signals."
