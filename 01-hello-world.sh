@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello, World! I'm practicing shell scripting."
+echo "Hello, ABHISHEK! I'm practicing shell scripting."
 
 echo "Current date and time: $(date)"
 echo "Current user: $(whoami)"
